@@ -1,1 +1,11 @@
 .idea/
+.Spotlight-V100
+.DS_Store
+.Trashes
+._*
+Desktop.ini
+Thumbs.db
+.docker-sync
+.php_cs.cache
+vendor/
+var/
